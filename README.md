@@ -60,7 +60,7 @@ Membangun dashboard interaktif untuk menganalisis distribusi energi.
 
 - 💼 LinkedIn: https://linkedin.com/in/[www.linkedin.com/in/nadia-siti-ramadhani-99b337361]
 - 📷 Instagram: https://instagram.com/[[ndy.styy](https://www.instagram.com/ndy.styy?igsh=cWZhMmZmYnB2ZXdk)]
-- 💬 WhatsApp: +62 [85183305377]
+- 💬 WhatsApp: [https://wa.me/message/M5V4MWWYNMD5O1]
 - 📧 Email: [25083010053@student.upnjatim.ac.id]
 
 ## ⚡ Fakta Menarik
