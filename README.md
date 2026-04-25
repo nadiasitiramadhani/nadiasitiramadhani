@@ -1,69 +1,68 @@
-# 👋 Hi, I'm Nadia Siti Ramadhani
+# 👋 Halo, saya Nadia Siti Ramadhani
 
-🎓 Undergraduate Student at UPN "Veteran" Jawa Timur  
-📊 Aspiring Data Analyst | Focus on Energy & Industrial Data  
-🏭 Interested in Oil & Gas & Petrochemical Industry  
+🎓 Mahasiswa S1 di UPN "Veteran" Jawa Timur  
+📊 Calon Data Analyst | Fokus pada Data Energi & Industri  
+🏭 Tertarik pada Industri Minyak & Gas serta Petrokimia  
 📍 Indonesia  
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-I am a data enthusiast currently building strong foundations in Data Analytics, SQL, Excel, Power BI, and Python.
+Saya adalah seorang mahasiswa yang sedang mengembangkan kemampuan di bidang Data Analytics dengan fokus pada SQL, Excel, Power BI, dan Python.
 
-My goal is to become a professional Data Analyst in the energy sector, especially in companies such as Pertamina and petrochemical industries.
+Ketertarikan saya pada data dimulai dari perkuliahan di kampus, di mana saya belajar bagaimana data dapat digunakan untuk menyelesaikan masalah nyata.
 
-I enjoy transforming raw data into meaningful insights that support better business decision-making.
+Saat ini saya sedang fokus membangun project untuk meningkatkan kemampuan teknis sekaligus mempersiapkan diri untuk magang di industri energi, seperti di perusahaan Pertamina maupun sektor petrokimia.
 
-I am currently focused on improving my technical skills and building real-world portfolio projects.
-
-## 🧠 Skills
+## 🧠 Keahlian
 
 ### 📊 Data Analytics
-- SQL (Joins, Aggregations, Subqueries, Window Functions - Basic to Intermediate)
+- SQL (JOIN, Aggregasi, Subquery, Window Function - dasar hingga menengah)
 - Microsoft Excel (Pivot Table, VLOOKUP/XLOOKUP, Dashboard, Data Cleaning)
-- Power BI (Data Visualization, KPI Dashboard, Data Modeling)
-- Python (Pandas, Data Cleaning, Basic Data Visualization)
+- Power BI (Visualisasi Data, Dashboard KPI, Data Modeling)
+- Python (Pandas, Data Cleaning, Dasar Visualisasi Data)
 
-### 🏭 Industry Interest
-- Oil & Gas Data Analysis
-- Petrochemical Industry Analytics
+### 🏭 Minat Industri
+- Analisis Data Minyak & Gas
+- Analisis Data Industri Petrokimia
 - Business Intelligence & Reporting
-- Operational & Production Data Analysis
-  
-## 📂 Projects
+- Analisis Operasional dan Produksi
 
-### 📌 Sales Data Analysis Dashboard
+## 📂 Project
+
+### 📌 Dashboard Analisis Penjualan
 **Tools:** Excel, SQL  
-**Description:**  
-Analyzed sales performance across different regions and product categories.
+**Deskripsi:**  
+Menganalisis performa penjualan berdasarkan wilayah dan kategori produk.
 
-**Key Insights:**
-- Identified top-performing regions
-- Determined best-selling products
-- Analyzed monthly sales trends
-- 
-### 📌 Energy Distribution Dashboard
+**Insight utama:**
+- Mengidentifikasi wilayah dengan penjualan tertinggi
+- Menentukan produk terlaris
+- Menganalisis tren penjualan bulanan
+
+### 📌 Dashboard Distribusi Energi
 **Tools:** Power BI, SQL  
-**Description:**  
-Built an interactive dashboard to analyze energy distribution performance and trends.
+**Deskripsi:**  
+Membangun dashboard interaktif untuk menganalisis distribusi energi.
 
-**Key Insights:**
-- Detected regional distribution imbalance
-- Identified high-demand areas
-- Visualized KPI performance trends over time
+**Insight utama:**
+- Menemukan ketidakseimbangan distribusi antar wilayah
+- Mengidentifikasi area dengan permintaan tinggi
+- Memvisualisasikan tren KPI dari waktu ke waktu
 
-## 📈 Goals
-- Become a Data Analyst in the Energy Industry  
-- Secure internship at leading companies such as Pertamina or Petrochemical industries  
-- Strengthen skills in Data Engineering and Business Intelligence  
-- Build a strong and impactful data portfolio  
+## 📈 Tujuan
 
-## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/[your-link]
-- 📷 Instagram: https://instagram.com/[your-username]
-- 💬 WhatsApp: +62 [your-number]
-- 📧 Email: [your-email]
+- Menjadi Data Analyst di industri energi  
+- Mendapatkan magang di perusahaan seperti Pertamina atau perusahaan petrokimia  
+- Meningkatkan kemampuan Data Engineering dan Business Intelligence  
+- Membangun portofolio project yang kuat dan relevan  
 
+## 📫 Kontak Saya
 
-## ⚡ Fun Fact
+- 💼 LinkedIn: https://linkedin.com/in/[www.linkedin.com/in/nadia-siti-ramadhani-99b337361]
+- 📷 Instagram: https://instagram.com/[[ndy.styy](https://www.instagram.com/ndy.styy?igsh=cWZhMmZmYnB2ZXdk)]
+- 💬 WhatsApp: +62 [85183305377]
+- 📧 Email: [25083010053@student.upnjatim.ac.id]
 
-I enjoy turning raw data into meaningful insights that can help solve real business problems 📊
+## ⚡ Fakta Menarik
+
+Saya senang mengubah data mentah menjadi insight yang bermanfaat untuk membantu pengambilan keputusan 📊
